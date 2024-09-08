@@ -1,0 +1,41 @@
+#Curriculo {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.titulo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.desc {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #ecf0f1;
+    border-left: 4px solid #3498db;
+    word-wrap: break-word; 
+    word-break: break-word;
+    overflow-wrap: break-word; 
+}
+
+.paragrafo {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #2c3e50;
+}
+
+.competencias {
+    margin-top: 15px;
+    font-size: 16px;
+    color: #2980b9;
+}
+
